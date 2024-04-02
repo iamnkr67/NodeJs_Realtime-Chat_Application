@@ -4,7 +4,7 @@
   "description": "A NodeJs RealTime Chat Application",
   "main": "index.js",
   "scripts": {
-    "build": "npm install nodemon cors axios express",
+    "build": "npm install cors axios express --save-dev nodemon",
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
