@@ -1,6 +1,4 @@
-# Project Name
-
-   **Real Time Chat Application using NodeJs, ReactJs, and ChatEngine.io**
+# Real Time Chat Application using NodeJs, ReactJs, and ChatEngine.io
 
      ## Glimpse of the Application: 
 
