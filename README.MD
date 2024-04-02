@@ -35,6 +35,7 @@ A brief description of your project.
    ```
    
 3. Connecting Node JS to ChatEngine.io
+
 **ChatEngine.io** provides full-stack chat tools - which makes adding chat into Node apps easy.
 
 To leverage this tool, we’ll create a Chat Engine project, and store our users in this project. All users in our Chat Engine project can chat with one another through their APIs / platform.
