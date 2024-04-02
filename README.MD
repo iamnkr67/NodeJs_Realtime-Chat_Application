@@ -1,7 +1,7 @@
 # Project Name
 
-[![License](frontend\public\Home.png)](LICENSE)
-[![License](frontend\public\ChatBox.png)](LICENSE)
+[!(frontend\public\Home.png)]
+[!(frontend\public\ChatBox.png)]
 
 ## Description
 
@@ -18,7 +18,7 @@ A brief description of your project.
 
 1. Clone the repository.
     ```bash
-    npm clone https//
+    npm clone https://github.com/iamnkr67/NodeJs_Realtime-Chat_Application.git
     ```
 
 2. Install the dependencies by running the following command:
