@@ -4,8 +4,8 @@
   "description": "A NodeJs RealTime Chat Application",
   "main": "index.js",
   "scripts": {
-    "build": "npm install"
-    "start": "npx nodemon ./index.js",
+    "build": "npm install nodemon cors axios express",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nitesh Kumar",
