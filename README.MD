@@ -1,9 +1,12 @@
 # Real Time Chat Application using NodeJs, ReactJs, and ChatEngine.io
 
-    #   Glimpse of the Application:
+  ##  Glimpse of the Application:
+
+
 
 ![](https://github.com/iamnkr67/NodeJs_Realtime-Chat_Application/blob/main/frontend/public/Home.png)
 ![](https://github.com/iamnkr67/NodeJs_Realtime-Chat_Application/blob/main/frontend/public/ChatBox.png)
+
 
 
 
