@@ -1,11 +1,13 @@
-# Project Name
+# Real Time Chat Application using NodeJs, ReactJs, and ChatEngine.io
 
-[![License](frontend\public\Home.png)](LICENSE)
-[![License](frontend\public\ChatBox.png)](LICENSE)
+## Glimpse of the Application:
+
+![](https://github.com/iamnkr67/NodeJs_Realtime-Chat_Application/blob/main/frontend/public/Home.png)
+![](https://github.com/iamnkr67/NodeJs_Realtime-Chat_Application/blob/main/frontend/public/ChatBox.png)
 
 ## Description
 
-A brief description of your project.
+
 
 ## Table of Contents
 
@@ -16,9 +18,10 @@ A brief description of your project.
 ## Installation
 
 1. Clone the repository.
-    ```bash
-    npm clone https//
-    ```
+
+   ```bash
+   npm clone https://github.com/iamnkr67/NodeJs_Realtime-Chat_Application.git
+   ```
 
 2. Install the dependencies by running the following command:
 
