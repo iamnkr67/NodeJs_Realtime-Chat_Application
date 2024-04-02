@@ -4,8 +4,8 @@
 
      ## Glimpse of the Application: 
 
-![](frontend\public\Home.png)
-![](frontend\public\ChatBox.png)
+![](https://github.com/iamnkr67/NodeJs_Realtime-Chat_Application/blob/main/frontend/public/Home.png)
+![](https://github.com/iamnkr67/NodeJs_Realtime-Chat_Application/blob/main/frontend/public/ChatBox.png)
 
 
 
