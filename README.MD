@@ -4,8 +4,8 @@
 
      ## Glimpse of the Application: 
 
-[!](frontend\public\Home.png)
-[!](frontend\public\ChatBox.png)
+![](frontend\public\Home.png)
+![](frontend\public\ChatBox.png)
 
 ## Description
 
